@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Jaxson Snow
+# Hi there! 👋 I'm a seasoned Blockchain Developer
 
-Welcome to my GitHub profile! I'm a Senior FullStack Developer, passionate about Blockchain Technology. I enjoy working on exciting projects and sharing knowledge with the community.
+Welcome to my GitHub profile! I'm passionate about Blockchain Technology. I enjoy working on exciting projects and sharing knowledge with the community.
 
 ## 🔧 Technologies & Tools
 
@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a Senior FullStack Developer, passionate about
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cooljaxsonsnow&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamblockchaindev&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 
